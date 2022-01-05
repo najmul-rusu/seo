@@ -23,7 +23,7 @@ body{
 .slider-font{
     font-size: 28px;
 }
-.buttom{
+.button{
     text-decoration: none;
     color: white;
     background-image: linear-gradient(#33a0d6, #266f94);
@@ -32,4 +32,12 @@ body{
 }
 #slider-image{
     padding-right: 50px;
+}
+.from{
+    display: flex;
+    margin: 2%;
+    background-color: #bee9ff;
+}
+.sup-width{
+    padding: 5%;
 }
