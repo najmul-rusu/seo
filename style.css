@@ -1,0 +1,35 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.slider{
+    display: flex;
+    background-image: url(images/top-banner.jpg);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+#slider-padding{
+    padding-top: 60px;
+    padding-left: 10%;
+}
+.half-width p{
+    padding-right: 200px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+.big-slider-font{
+    font-size: 30px;
+}
+.slider-font{
+    font-size: 28px;
+}
+.buttom{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(#33a0d6, #266f94);
+    padding: 10px 40px;
+    border-radius: 25px;
+}
+#slider-image{
+    padding-right: 50px;
+}
